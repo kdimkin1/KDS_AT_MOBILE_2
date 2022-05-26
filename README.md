@@ -8,10 +8,11 @@
 
 
 ## Tests run on real device (with ru locale):
-![image](images/Screenrecorder-2022-05-25-18-19-07-410(0).gif)
+<img src="images/Screenrecorder-2022-05-25-18-19-07-410(0).gif" width="250" height="500" />
 
 ## Tests run with Browserstack (with en locale):
-![image](images/BS_video-41b090c1c2b35c8a5d669a9f6e1f816ac6c3a174.gif)
+<img src="images/BS_video-41b090c1c2b35c8a5d669a9f6e1f816ac6c3a174.gif" width="500" height="500" />
+
 ## Allure-report:
 ![image](images/Allure-report.png)
 
