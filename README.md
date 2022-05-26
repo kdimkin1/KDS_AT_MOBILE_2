@@ -7,8 +7,13 @@
 
 
 
-## Tests run on real device with ru (locale):
+## Tests run on real device (with ru locale):
 ![image](images/Screenrecorder-2022-05-25-18-19-07-410(0).gif)
+
+## Tests run with Browserstack (with en locale):
+![image](images/BS_video-41b090c1c2b35c8a5d669a9f6e1f816ac6c3a174.gif)
+## Allure-report:
+![image](images/Allure-report.png)
 
 ## Notes for Run tests:
 ## For Browserstack
