@@ -25,8 +25,8 @@
 >```
 >deviceName=Google Pixel 3
 >platformVersion=9.0
->user=bsuse*****     -- creditials from browserstack account
->key=3Sjd**********  -- creditials from browserstack account
+>user=bsuse*****     -- credentials from browserstack account
+>key=3Sjd**********  -- credentials from browserstack account
 >app=bs://b0532bd2d289a275a8eb997acdabc0f8f2d491e2
 >url=http://hub.browserstack.com/wd/hub
 >```

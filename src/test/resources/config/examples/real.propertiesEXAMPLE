@@ -1,0 +1,5 @@
+deviceName=******** - deviceName from adb
+platformName=Android
+platformVersion=**** -  platformVersion from device
+app=https://github.com/wikimedia/apps-android-wikipedia/releases/download/latest/app-alpha-universal-release.apk?raw=true
+url=http://localhost:4723/wd/hub

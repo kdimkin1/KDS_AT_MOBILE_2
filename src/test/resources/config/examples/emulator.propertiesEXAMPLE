@@ -1,0 +1,5 @@
+deviceName=******** - @DefaultValue("Pixel_4_API_30")
+platformName=Android
+platformVersion=**** -  @DefaultValue("11.0")
+app=https://github.com/wikimedia/apps-android-wikipedia/releases/download/latest/app-alpha-universal-release.apk?raw=true
+url=http://localhost:4723/wd/hub
